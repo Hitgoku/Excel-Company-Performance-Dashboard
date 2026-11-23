@@ -44,8 +44,6 @@ The objective is to understand revenue, profitability, customer behaviour, geogr
 - Analyze geographical customer distribution.
 - Support business decision-making.
 
-## Dashboard Preview
-(Add dashboard screenshot here)
 
 ## Conclusion
 This project demonstrates the use of Excel data transformation,
